@@ -1,42 +1,43 @@
 # Project Rebuild
 
-**Project Rebuild** is my long-term initiative to strengthen and expand my computer science foundation through structured lessons, coding challenges, and projects. The repository serves as a living portfolio of my growth in software engineering, highlighting both academic and self-directed work.
+**Project Rebuild** is my personal initiative to rebuild my computer science foundation from the ground up. The repository documents structured lessons, coding challenges, and projects that strengthen my skills in Java and core CS concepts.
 
 ## Purpose
 
 The goal of Project Rebuild is to:
-- Reinforce core computer science concepts (OOP, data structures, algorithms).
-- Apply skills through progressively more complex coding challenges.
-- Build a body of work that demonstrates readiness for software engineering roles.
-- Track progress in a transparent, structured way.
+- Reinforce fundamentals in computer science and software engineering.
+- Practice problem-solving through lessons, exercises, and projects.
+- Build a body of work that demonstrates growth, discipline, and readiness for software engineering roles.
+- Track measurable progress through an XP system and a hire-ready confidence meter.
 
 ## Structure
 
 The repository is organized into **stages**, each containing:
-- **Lessons** → Focused study on a core topic (variables, conditionals, OOP, etc.).
-- **Homework** → Short coding exercises reinforcing each lesson.
-- **Projects** → Larger, applied builds (e.g., calculator, contact manager, student system).
-- **Progress Tracking** → XP system and confidence meter to measure readiness.
+- **Lessons** → Core concepts (variables, loops, methods, OOP, inheritance, etc.).  
+- **Homework** → Small exercises reinforcing the lesson.  
+- **Projects** → Larger builds applying multiple concepts.  
+- **Progress Tracking** → XP points and a hire-ready confidence meter.
 
 ## Highlights
 
-Some notable completed projects include:
-- **Number Quest (Java)** → A console-based number game reinforcing loops and conditionals.
-- **Task Management System (Java)** → Built using OOP principles, handling user-defined tasks with CRUD operations.
-- **Student/Professor System (Java)** → Demonstrates inheritance and polymorphism by modeling people and roles within an academic environment.
-- **Water Tracker App (SwiftUI)** → A personal iOS app to track daily water intake, with custom UI and animations.
+Some completed projects include:
+- **Number Quest (Java)** → A console-based number game reinforcing loops and conditionals.  
+- **Calculator (Java)** → Implements encapsulation, input handling, and menu-driven logic.  
+- **Contact Manager (Java)** → Uses collections and hashing for efficient data storage and retrieval.  
+- **Task Management System (Java)** → CRUD-based task tracker applying OOP principles.  
+- **Student/Professor System (Java)** → Demonstrates inheritance and polymorphism with academic roles.
 
-Each project is written from scratch, documented, and pushed to this repository for version control and review.
+Each project is written from scratch and pushed to this repository with version control.
 
 ## Skills Demonstrated
 
-- **Languages**: Java, Python, Swift, JavaScript  
-- **Concepts**: Object-Oriented Programming, Data Structures, Algorithms, UI Development  
-- **Tools**: Git, GitHub, Node.js, Express, Socket.IO, MySQL  
+- **Languages**: Java  
+- **Concepts**: Object-Oriented Programming, Encapsulation, Inheritance, Polymorphism, Data Structures, Algorithms, Problem Solving  
+- **Tools**: Git, GitHub, InteliJ IDE
 
 ## Progress
 
-Project Rebuild is ongoing. Each stage builds upon the last, with consistent updates to lessons, homework, and projects. The ultimate goal is to reach a **hire-ready confidence level** through measurable progress and a portfolio of completed work.
+Project Rebuild is ongoing. Each stage builds upon the last, with regular updates to lessons, homework, and projects. The ultimate goal is to achieve hire-ready confidence through consistent practice and a portfolio of completed work.
 
 ---
 
