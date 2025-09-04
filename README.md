@@ -34,6 +34,7 @@ Each project is written from scratch and pushed to this repository with version 
 - **Languages**: Java  
 - **Concepts**: Object-Oriented Programming, Encapsulation, Inheritance, Polymorphism, Data Structures, Algorithms, Problem Solving  
 - **Tools**: Git, GitHub, InteliJ IDE
+- **AI Tools**: ChatGPT, GPT5 (AI is for curiculum crafting and learning and has made no additions to code commited)
 
 ## Progress
 
